@@ -1,4 +1,3 @@
-# Uusintatentti
 
 Tee seuraavat luokat:
 
@@ -7,7 +6,6 @@ Tee seuraavat luokat:
 -attribuutit : nimi ja aika (molemmat string)
 -kaksi konstruktoria: parametrillinen konstruktori ja oletuskonstruktori(saat itse päättää, mitkä arvot annetaan atribuuteille oletuskonstruktorissa)
 -yksi metodi: tulosta(), joka tulostaa olion attribuuttien arvot näytölle
-
 
 **Kalenteri**
 
